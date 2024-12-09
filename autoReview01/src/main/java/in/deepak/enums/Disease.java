@@ -1,0 +1,20 @@
+package in.deepak.enums;
+
+public enum Disease {
+
+	HEART_DISEASE,
+    DIABETES,
+    ASTHMA,
+    CANCER,
+    HYPERTENSION,
+    CHRONIC_KIDNEY_DISEASE,
+    LIVER_DISEASE,
+    MIGRAINE,
+    THYROID_DISEASE,
+    HEMOPHILIA,
+    ACID_REFLUX,
+    ALLERGIES,
+    TUBERCULOSIS,
+    OTHER,
+    NONE
+}
